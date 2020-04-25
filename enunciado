@@ -1,0 +1,4 @@
+hacer formuarios para los comentarios, no poner el campo contenido en el formulario
+solo dos campos en el form de comentarios: titulo y cuerpo
+hay que mirar si una vez que es valido tengo que guardar dos datos que no me los da
+el usuario en el formulario--> mirar documentacion
